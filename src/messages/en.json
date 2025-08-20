@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "projects": "/projects",
+        "articles": "/articles",
+        "about": "/about",
+        "position": "Software Engineer"
+    },
+    "homePage": {
+        "description": "Software Developer with experience leading projects and optimizing high-demand systems. Skilled in Node.js, React, TypeScript, Docker, Azure, and AI solutions, always striving for efficiency and innovation. Currently pursuing a master's degree and passionate about technology, with a focus on creating solutions that deliver real impact.",
+        "linkedinDescription": "follow my career",
+        "githubDescription": "steal my code",
+        "xDescription": "read my mind",
+        "resume": "Download my CV"
+    },
+    "projectsPage": {
+        "title": "Projects"
+    },
+    "articlesPage": {
+        "title": "Articles",
+        "publishedPapers": {
+            "title": "Published Papers",
+            "viewPaper": "View Paper"
+        },
+        "blogArticles": {
+            "title": "Blog Articles"
+        }
+    },
+    "scrollToTop": {
+        "buttonText": "Scroll to top"
+    }
+}

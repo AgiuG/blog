@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "projects": "/projetos",
+        "articles": "/artigos",
+        "about": "/sobre",
+        "position": "Engenheiro de Software"
+    },
+    "homePage": {
+        "description": "Desenvolvedor de Software com experiência em liderança de projetos e otimização de sistemas de alta demanda. Habilidades em Node.js, React, TypeScript, Docker, Azure e soluções de IA, sempre buscando eficiência e inovação. Atualmente cursando um mestrado e apaixonado por tecnologia, com foco em criar soluções que entregam impacto real.",
+        "linkedinDescription": "acompanhar minha trajetória",
+        "githubDescription": "roubar meu código",
+        "xDescription": "ver meus pensamentos",
+        "resume": "Baixar meu CV"
+    },
+    "projectsPage": {
+        "title": "Projetos"
+    },
+    "articlesPage": {
+        "title": "Artigos",
+        "publishedPapers": {
+            "title": "Artigos Publicados",
+            "viewPaper": "Ver Artigo"
+        },
+        "blogArticles": {
+            "title": "Artigos de Blog"
+        }
+    },
+    "scrollToTop": {
+        "buttonText": "Voltar ao topo"
+    }
+}
