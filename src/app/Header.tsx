@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 import { useLanguage } from "../hooks/useLanguage";
 
 function isThemeSetToDark() {
-  if (window == undefined) return;
+  if (typeof window === "undefined") return false;
 
   return (
     localStorage.theme === "dark" ||
