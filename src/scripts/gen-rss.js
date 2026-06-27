@@ -34,8 +34,8 @@ function generateRSS() {
   const feedUrl = `${siteUrl}/rss.xml`;
 
   const feed = new RSS({
-    title: "Lukeberry Pi Blog",
-    description: "This is my blog",
+    title: "Guilherme Silva",
+    description: "Guilherme Silva's personal website",
     feed_url: feedUrl,
     site_url: siteUrl,
     language: "en",

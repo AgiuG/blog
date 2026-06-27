@@ -66,7 +66,7 @@ export default function RootLayout({
               </a>
             </div>
             <blockquote className="text-zinc-800 dark:text-zinc-300">
-              Smile, you&apos;re alive :)
+              Da lama ao caos, do caos à lama. 🦀
             </blockquote>
           </footer>
         </LanguageProvider>
